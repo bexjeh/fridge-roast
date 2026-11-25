@@ -8,8 +8,8 @@ in MAKEFUN_OUTPUT_DIR (default "."). Python 3 stdlib only.
 import os
 
 LINE = (
-    "My smart fridge installed a firmware update overnight, and now "
-    "the ice maker refuses to work until I rate the update five stars."
+    "My fridge's ice maker won't dispense a single cube until I give "
+    "its firmware update five stars."
 )
 
 
